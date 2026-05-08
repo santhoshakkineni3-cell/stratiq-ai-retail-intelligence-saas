@@ -1,19 +1,19 @@
 # 🚀 StratIQ — AI-Powered Retail Intelligence SaaS
 
-StratIQ is a modern SaaS platform designed for retail businesses to monitor multi-branch operations, analyze performance, forecast revenue, manage inventory, and generate AI-powered business insights in real time.
+StratIQ is a modern AI-powered SaaS platform built for retail businesses to monitor operations, analyze multi-branch performance, manage inventory, forecast revenue, and generate business intelligence insights in real time.
 
 ---
 
-## 🌐 Product Vision
+# 🌐 Product Overview
 
-StratIQ helps retail owners and managers:
+StratIQ enables retail owners, managers, and business teams to:
 
-- Track branch performance
-- Monitor revenue and profit margins
-- Analyze inventory trends
-- Forecast future sales
-- Generate intelligent business insights
-- Manage operations from a centralized dashboard
+- Monitor branch performance
+- Analyze revenue and profit metrics
+- Track inventory insights
+- Forecast future business trends
+- Generate AI-driven recommendations
+- Centralize operational analytics
 
 ---
 
@@ -22,130 +22,156 @@ StratIQ helps retail owners and managers:
 ## 📊 Analytics Dashboard
 - Revenue tracking
 - Profit monitoring
-- Margin analysis
-- Interactive charts
-- KPI cards
+- Margin analytics
+- Interactive business charts
+- KPI overview cards
 
 ## 🏬 Branch Management
-- Multi-branch overview
-- Branch performance analytics
-- Comparative insights
+- Multi-branch analytics
+- Branch comparison insights
+- Performance monitoring
 
-## 📦 Inventory Module
-- Product tracking
-- Inventory insights
-- Stock analytics
+## 📦 Inventory Intelligence
+- Product analytics
+- Inventory monitoring
+- Stock insights
 
-## 🔮 Forecasting
-- Revenue prediction
-- Business trend analysis
-- Future performance estimation
+## 🔮 Forecasting System
+- Revenue forecasting
+- Trend analysis
+- Predictive business insights
 
-## 🔐 Authentication
-- Secure login/signup flow
-- SaaS-ready architecture
+## 🔐 SaaS Authentication
+- Login & signup system
+- Secure authentication flow
 - Supabase integration
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 - Chart.js
 
-### Backend
+## Backend
 - FastAPI
 - Python
 
-### Database & Auth
+## Database & Authentication
 - Supabase
 
-### Deployment (Planned)
+## Planned Deployment
 - Vercel
-- Render/Railway
+- Railway / Render
 
 ---
 
-# 📸 Screenshots
+# 📸 Product Screenshots
 
-## Landing Page
-Modern SaaS landing page with pricing and product showcase.
+## 🖥 Landing Page
 
-## Dashboard
-Interactive analytics dashboard with business intelligence visualizations.
+![Landing Page](landing-page.png)
 
-## Forecasting Module
-Retail prediction and branch forecasting system.
+Modern SaaS homepage with product positioning, feature highlights, and onboarding-focused UI.
 
 ---
 
-# 🚧 Current Status
+## 💳 Pricing Section
 
-This project is currently under active development.
+![Pricing](pricing-page.png)
 
-### Completed
+Professional pricing architecture designed for scalable SaaS subscriptions and enterprise onboarding.
+
+---
+
+## 📈 Analytics Dashboard
+
+![Dashboard](dashboard.png)
+
+Real-time business intelligence dashboard featuring:
+- Revenue analytics
+- Profit insights
+- Forecasting charts
+- AI-generated recommendations
+- Multi-branch retail monitoring
+
+---
+
+# 🚧 Current Project Status
+
+StratIQ is currently under active development.
+
+## ✅ Completed
 - SaaS UI architecture
-- Dashboard system
+- Landing page
+- Dashboard analytics
+- Forecasting module
 - Authentication integration
-- Analytics modules
-- Forecasting UI
-- Multi-page structure
+- Multi-page routing
+- Retail intelligence structure
+- Responsive UI system
 
-### In Progress
-- Final Supabase optimization
-- AI insights engine
+## 🔄 In Progress
+- Advanced Supabase optimization
+- AI recommendation engine
 - Payment integration
-- Deployment pipeline
-- Production-level testing
+- Production deployment
+- Final backend optimization
+- Enterprise-grade testing
 
 ---
 
 # 🎯 Future Roadmap
 
-- AI recommendation engine
-- Stripe subscriptions
-- Multi-tenant SaaS architecture
+- AI business assistant
+- Stripe payment subscriptions
+- Multi-tenant SaaS support
 - Real-time notifications
-- Advanced reporting
 - Team collaboration tools
-- Mobile responsive optimization
+- Advanced reporting engine
+- Mobile optimization
+- Enterprise integrations
 
 ---
 
-# ⚡ Local Setup
+# ⚡ Local Development Setup
 
 ```bash
-git clone <repo-url>
+git clone <repository-url>
 cd stratiq-ai-retail-intelligence-saas
+
 npm install
 npm run dev
 ```
 
 ---
 
-# 🧠 Project Highlights
+# 🧠 Why This Project Matters
 
-- Real-world SaaS architecture
-- Full-stack implementation
-- Business intelligence focus
-- Modern UI/UX
-- Scalable structure
-- Startup-oriented product design
+StratIQ is designed as a real-world startup-oriented SaaS platform focused on solving operational intelligence challenges for retail businesses through analytics and AI-driven insights.
+
+This project demonstrates:
+- Full-stack SaaS architecture
+- Modern UI/UX engineering
+- Data visualization systems
+- Authentication workflows
+- Dashboard engineering
+- Scalable product thinking
 
 ---
 
 # 👨‍💻 Developer
 
-Built by Santhosh Akkineni
+### Santhosh Akkineni
 
-Focused on building scalable AI-powered SaaS products and modern business platforms.
+Focused on building scalable SaaS products, AI-powered platforms, and modern business intelligence systems.
 
 ---
 
-# ⭐ Note
+# ⭐ Repository Notes
 
-This project represents an actively evolving startup-style SaaS platform focused on retail intelligence and operational analytics.
+This repository represents an actively evolving production-style SaaS application built for portfolio, learning, startup experimentation, and real-world scalability exploration.
